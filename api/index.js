@@ -1,15 +1,12 @@
 const dotenv = require("dotenv");
 const jsonServer = require("json-server");
+const cors = require("cors");
 
 dotenv.config();
 
 const server = jsonServer.create();
 
-server.use((req, res, next) => {
-  res.header("Access-Control-Allow-Origin", process.env.ORIGIN_WHITELIST);
-  res.header("Access-Control-Allow-Headers", "*");
-  next();
-});
+server.use(cors());
 
 server.get("/", (_req, res) => {
   res.status(200).json({ message: "Pong 🏓" });

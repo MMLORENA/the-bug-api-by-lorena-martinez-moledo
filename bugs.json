@@ -34,6 +34,27 @@
       "description": "Beware of the Security Bug Beetle!",
       "category": "UI/UX Problems",
       "picture": "https://images.pexels.com/photos/1131156/pexels-photo-1131156.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": "11",
+      "name": "Bugzilla",
+      "description": "Bugzilla is on the loose!",
+      "category": "Logical Bugs",
+      "picture": "https://images.pexels.com/photos/1131162/pexels-photo-1131162.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": "12",
+      "name": "Code Ant",
+      "description": "Watch out for the Code Ant invasion!",
+      "category": "Syntax Errors",
+      "picture": "https://images.pexels.com/photos/1126789/pexels-photo-1126789.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": "13",
+      "name": "404 Spider",
+      "description": "Caught in the web of the 404 Spider!",
+      "category": "UI/UX Problems",
+      "picture": "https://images.pexels.com/photos/1131144/pexels-photo-1131144.jpeg?auto=compress&cs=tinysrgb&w=1600"
     }
   ]
 }
