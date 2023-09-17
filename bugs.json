@@ -1,0 +1,39 @@
+{
+  "bugs": [
+    {
+      "id": "1",
+      "name": "Bugzilla",
+      "description": "Bugzilla is on the loose!",
+      "category": "Logical Bugs",
+      "picture": "https://images.pexels.com/photos/1131162/pexels-photo-1131162.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": "2",
+      "name": "Code Ant",
+      "description": "Watch out for the Code Ant invasion!",
+      "category": "Syntax Errors",
+      "picture": "https://images.pexels.com/photos/1126789/pexels-photo-1126789.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": "3",
+      "name": "404 Spider",
+      "description": "Caught in the web of the 404 Spider!",
+      "category": "UI/UX Problems",
+      "picture": "https://images.pexels.com/photos/1131144/pexels-photo-1131144.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": "4",
+      "name": "Infinite Loop Worm",
+      "description": "Stuck in the endless coils of the Infinite Loop Worm!",
+      "category": "Performance Issues",
+      "picture": "https://images.pexels.com/photos/2608452/pexels-photo-2608452.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": "5",
+      "name": "Security Bug Beetle",
+      "description": "Beware of the Security Bug Beetle!",
+      "category": "UI/UX Problems",
+      "picture": "https://images.pexels.com/photos/1131156/pexels-photo-1131156.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    }
+  ]
+}
